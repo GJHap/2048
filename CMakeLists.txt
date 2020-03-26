@@ -13,6 +13,7 @@ set(SOURCE_LIST
   "src/2048.hpp"
   "src/Main.cpp"
   "CMakeLists.txt"
+  "LICENSE"
   ".gitignore"
   )
 
