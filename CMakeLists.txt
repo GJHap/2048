@@ -14,6 +14,7 @@ set(SOURCE_LIST
   "src/Main.cpp"
   "CMakeLists.txt"
   "LICENSE"
+  "README.md"
   ".gitignore"
   )
 
